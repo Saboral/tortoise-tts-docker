@@ -17,7 +17,7 @@ Tortoise TTS Fast is a high-performance Text-to-Speech (TTS) application that ge
 - torchvision 0.14.1
 - torchaudio 0.13.1
 - Streamlit
-- NVIDIA CUDA 11.7.0 (for GPU support)
+- NVIDIA CUDA 12.6 (for GPU support)
 - Miniconda (for managing Python environments)
 
 ## 🚀 Getting Started
